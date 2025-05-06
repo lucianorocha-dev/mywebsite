@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+	<title>asterisk</title>
+	<style>
+		.s0 { fill: #363635 } 
+	</style>
+	<g id="dark grey">
+		<path id="1" fill-rule="evenodd" class="s0" d="m379 50v540h-118v-540z"/>
+		<path id="2" fill-rule="evenodd" class="s0" d="m170.8 87.4l381.9 381.8-83.5 83.5-381.9-381.9z"/>
+		<path id="3" fill-rule="evenodd" class="s0" d="m50 261h540v118h-540z"/>
+		<path id="4" fill-rule="evenodd" class="s0" d="m87.3 469.2l381.9-381.8 83.5 83.4-381.9 381.9z"/>
+	</g>
+</svg>
