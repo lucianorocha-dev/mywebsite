@@ -2372,4 +2372,17 @@ textarea {
          img.is-loaded {
                opacity: 1;
                transition: opacity 1s cubic-bezier(0.215, 0.61, 0.355, 1); 
-         }
+         }/*
+ * Put your custom CSS code here
+ */
+hr {
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: auto;
+margin-right: auto;
+border-style: inset;
+border-width: 1px;
+width:50%;
+color:gray;
+}
