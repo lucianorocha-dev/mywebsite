@@ -28,27 +28,26 @@
                  
          --card-image-height: calc(12rem + 13vmin);
                    
-         --white:            #FFFFFF;
-         --black:            #000000; 
-         --green:            #00C899; 
-         --blue:             #3DBFE2; 
-         --red:              #EB7F9B; 
-         --yellow:           #FFC76B; 
-         --dark:             #283149; 
-         --dark-rgb:         40, 49, 73;
-         --gray-1:           #5f5f74; 
-         --gray-2:           #9196A2; 
-         --gray:             undefined; 
-         --light:            #d4d2e1; 
-         --lighter:          #DBDDE6; 
-         --color:            #6f689b;
-         --color-rgb:        111, 104, 155; 
-         --page-bg:          linear-gradient(110deg, rgba(215,218,227,1) 0%, rgba(242,243,248,1) 100%); 
-         --text-color:       #343435; 
-         --headings-color:   #283149; 
-         --link-color:       #6f689b; 
-         --link-color-hover: #283149; 
-         --inline-code:       255, 81, 81;
+          --white: #FFFFFF;
+          --black: #000000;
+          --green: #00C899;
+          --blue: #3DBFE2;
+          --red: #EB7F9B;
+          --yellow:#FFC76B;
+          --dark: #283149;
+          --dark-rgb: 40, 49, 73;
+          --gray-1: #5f5f74;
+          --gray-2: #9196A2;
+          --light: #d4d2e1;
+          --lighter: #DBDDE6;
+          --color: #6f689b;
+          --color-rgb: 111, 104, 155;
+          --page-bg: linear-gradient(110deg, rgba(215,218,227,1) 0%, rgba(242,243,248,1) 100%);
+          --text-color: #343435;
+          --headings-color: #283149;
+          --link-color: #6f689b;
+          --link-color-hover: #283149;
+          --inline-code: 255, 81, 81;
       
     --box-shadow:
         0px 4.4px 4.5px -100px rgba(var(--dark-rgb), 0.174),
