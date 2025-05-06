@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucianorocha.net/sitemap.xml
