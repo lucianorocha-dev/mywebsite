@@ -10,5 +10,19 @@
         "name": "Luciano Rocha"
     },
     "items": [
+        {
+            "id": "https://lucianorocha.net/campanha-novos-socios-hebraica-sp.html",
+            "url": "https://lucianorocha.net/campanha-novos-socios-hebraica-sp.html",
+            "title": "Campanha Novos Sócios - Hebraica SP",
+            "content_html": "<div style=\"padding: 0% 0 0 0; position: relative;\"><div class=\"post__iframe\"><iframe width=\"560\" height=\"315\" src=\"https://player.vimeo.com/video/1079445163\" title=\"Campanha Novos Sócios - Hebraica SP\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<p>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n</p>\n<p> </p>",
+            "image": "https://lucianorocha.net/media/posts/7/campanha-nossa-casa.png",
+            "author": {
+                "name": "Luciano Rocha"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-06T16:10:36-03:00",
+            "date_modified": "2025-05-06T16:18:04-03:00"
+        }
     ]
 }
