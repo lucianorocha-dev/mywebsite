@@ -3,12 +3,34 @@
     <title>Luciano Rocha</title>
     <link href="https://lucianorocha.net/feed.xml" rel="self" />
     <link href="https://lucianorocha.net" />
-    <updated>2025-05-07T13:56:02-03:00</updated>
+    <updated>2025-05-07T13:56:46-03:00</updated>
     <author>
         <name>Luciano Rocha</name>
     </author>
     <id>https://lucianorocha.net</id>
 
+    <entry>
+        <title>Promo Espaço Bebê - Hebraica</title>
+        <author>
+            <name>Luciano Rocha</name>
+        </author>
+        <link href="https://lucianorocha.net/promo-espaco-bebe-hebraica.html"/>
+        <id>https://lucianorocha.net/promo-espaco-bebe-hebraica.html</id>
+        <media:content url="https://lucianorocha.net/media/posts/15/bebe-post-festured-img.png" medium="image" />
+
+        <updated>2025-05-07T13:56:39-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lucianorocha.net/media/posts/15/bebe-post-festured-img.png" class="type:primaryImage" alt="" /></p>
+                <div style="padding: 0% 0 0 0; position: relative;"><div class="post__iframe"><iframe width="960" height="540" src="https://player.vimeo.com/video/326919489" title="Promo Espaço Bebê - Hebraica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></div>
+<p>
+<script src="https://player.vimeo.com/api/player.js"></script>
+</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Campanha da Água Hebraica - Torneira</title>
         <author>
