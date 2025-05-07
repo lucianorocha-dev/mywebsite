@@ -3,34 +3,12 @@
     <title>Luciano Rocha</title>
     <link href="https://lucianorocha.net/feed.xml" rel="self" />
     <link href="https://lucianorocha.net" />
-    <updated>2025-05-07T14:19:29-03:00</updated>
+    <updated>2025-05-07T13:58:47-03:00</updated>
     <author>
         <name>Luciano Rocha</name>
     </author>
     <id>https://lucianorocha.net</id>
 
-    <entry>
-        <title>Debt</title>
-        <author>
-            <name>Luciano Rocha</name>
-        </author>
-        <link href="https://lucianorocha.net/debt.html"/>
-        <id>https://lucianorocha.net/debt.html</id>
-        <media:content url="https://lucianorocha.net/media/posts/18/debt-post-festured-img.png" medium="image" />
-
-        <updated>2025-05-07T14:12:30-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lucianorocha.net/media/posts/18/debt-post-festured-img.png" class="type:primaryImage" alt="" /></p>
-                <div style="padding: 0% 0 0 0; position: relative;"><div class="post__iframe"><iframe width="960" height="540" src="https://player.vimeo.com/video/711708340" title="Debt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></div>
-<p>
-<script src="https://player.vimeo.com/api/player.js"></script>
-</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Piloto Programa Check-In (Record Internacional)</title>
         <author>
@@ -226,6 +204,27 @@
 <script src="https://player.vimeo.com/api/player.js"></script>
 </p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Campanha Novos Sócios - Hebraica SP</title>
+        <author>
+            <name>Luciano Rocha</name>
+        </author>
+        <link href="https://lucianorocha.net/campanha-novos-socios-hebraica-sp.html"/>
+        <id>https://lucianorocha.net/campanha-novos-socios-hebraica-sp.html</id>
+        <media:content url="https://lucianorocha.net/media/posts/7/camp-novos-socios.png" medium="image" />
+
+        <updated>2025-05-06T16:10:36-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lucianorocha.net/media/posts/7/camp-novos-socios.png" class="type:primaryImage" alt="" /></p>
+                <div style="padding: 0% 0 0 0; position: relative;"><div class="post__iframe"><iframe width="960" height="540" src="https://player.vimeo.com/video/1079445163" title="Campanha Novos Sócios - Hebraica SP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div></div>
+<p>
+<script src="https://player.vimeo.com/api/player.js"><hr data-mce-fragment="1" /><span id="mce_marker" data-mce-type="bookmark" data-mce-fragment="1"></span><hr data-mce-fragment="1" /><span id="mce_marker" data-mce-type="bookmark" data-mce-fragment="1"></span></script>
+</p>
             ]]>
         </content>
     </entry>
